@@ -1,13 +1,12 @@
 [
   {
-    "relation": [
-      "delegate_permission/common.handle_all_urls"
-    ],
+    "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
       "package_name": "tv.fishka.android",
       "sha256_cert_fingerprints": [
-        "70:E8:26:D1:3B:00:34:38:36:20:87:6E:1C:15:72:92:BF:57:6E:08:97:CF:B0:E2:AE:E6:11:D1:E6:5E:FA:40"
+        "70:E8:26:D1:3B:00:34:38:36:20:87:6E:1C:15:72:92:BF:57:6E:08:97:CF:B0:E2:AE:E6:11:D1:E6:5E:FA:40",
+        "E6:9D:50:63:D3:80:3B:EF:51:05:B1:ED:01:0E:CC:01:F4:06:0C:30:3B:DD:A3:F1:24:A4:4F:72:F3:F3:1F:AD"
       ]
     }
   }
